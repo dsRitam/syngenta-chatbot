@@ -1,0 +1,10 @@
+streamlit
+langchain-community
+pymysql
+requests
+pypdf
+faiss-cpu
+langgraph
+python-dotenv
+nest_asyncio
+plotly
